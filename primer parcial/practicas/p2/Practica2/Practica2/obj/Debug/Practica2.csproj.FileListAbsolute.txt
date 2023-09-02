@@ -1,0 +1,10 @@
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\p2\Practica2\Practica2\obj\Debug\Practica2.pdb
