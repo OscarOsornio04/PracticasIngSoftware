@@ -1,0 +1,10 @@
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\proyectos\proyecto1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
