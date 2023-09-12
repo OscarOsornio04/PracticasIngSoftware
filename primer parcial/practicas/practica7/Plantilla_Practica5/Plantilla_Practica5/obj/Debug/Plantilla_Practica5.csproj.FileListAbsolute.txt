@@ -1,0 +1,40 @@
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe.config
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.pdb
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.AssemblyReference.cache
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Form1.resources
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Properties.Resources.resources
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.GenerateResource.cache
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.CoreCompileInputs.cache
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.exe
+C:\Users\ICE\Documents\practica5\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.pdb
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe.config
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.pdb
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.AssemblyReference.cache
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Form1.resources
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Properties.Resources.resources
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.GenerateResource.cache
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.CoreCompileInputs.cache
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.exe
+C:\Users\ICE\Documents\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe.config
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.AssemblyReference.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Form1.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Properties.Resources.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.GenerateResource.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica6\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe.config
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\bin\Debug\Plantilla_Practica5.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.AssemblyReference.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Form1.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.Properties.Resources.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.GenerateResource.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica7\Plantilla_Practica5\Plantilla_Practica5\obj\Debug\Plantilla_Practica5.pdb
