@@ -1,0 +1,10 @@
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\bin\Debug\LanzadorApp_Practica9.exe.config
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\bin\Debug\LanzadorApp_Practica9.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\bin\Debug\LanzadorApp_Practica9.pdb
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\obj\Debug\LanzadorApp_Practica9.csproj.AssemblyReference.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\obj\Debug\LanzadorApp_Practica9.Form1.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\obj\Debug\LanzadorApp_Practica9.Properties.Resources.resources
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\obj\Debug\LanzadorApp_Practica9.csproj.GenerateResource.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\obj\Debug\LanzadorApp_Practica9.csproj.CoreCompileInputs.cache
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\obj\Debug\LanzadorApp_Practica9.exe
+C:\Users\Oscar04\Documents\8vo semestre\ing de software\primer parcial\practicas\practica9\LanzadorApp_Practica9\LanzadorApp_Practica9\obj\Debug\LanzadorApp_Practica9.pdb
